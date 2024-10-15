@@ -1,0 +1,5 @@
+-e file:.
+black
+ruff
+mypy>=0.94
+types-requests
